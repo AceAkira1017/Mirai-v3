@@ -77,4 +77,4 @@ Sự đóng góp của bạn sẽ khiến cho project ngày càng tốt hơn, c�
 <!-- CONTACT -->
 ## ☎️ **Contact**
 
-- DongDev - [Facebook](https://facebook.com/minhdong.dev) - [GitHub](https://github.com/DongDev-VN) - dongdz.user@gmail.com
+- DongDev - [Facebook](https://facebook.com/ace.gerome) - [GitHub](https://github.com/AceAkira1017) - acegerome10@gmail.com
